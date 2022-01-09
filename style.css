@@ -132,3 +132,11 @@ p{
   width: 100%;
   height: auto;
 }
+h4{
+	font-size: 20px;
+	color: whitesmoke;
+}
+h2{
+	color: whitesmoke;
+	font-family:monospace;
+}
