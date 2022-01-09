@@ -128,3 +128,7 @@ p{
   color:#aaa;
   margin-bottom:0;
 }
+.responsive {
+  width: 100%;
+  height: auto;
+}
